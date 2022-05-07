@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-app/static/css/main.abb90f04.css",
+    "main.js": "/my-portfolio-app/static/js/main.503f48af.js",
+    "static/media/react.png": "/my-portfolio-app/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/my-portfolio-app/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/my-portfolio-app/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/Logo.png": "/my-portfolio-app/static/media/Logo.da00a56e51a55560bc1f.png",
+    "static/media/git.jpg": "/my-portfolio-app/static/media/git.312d625f36d6ca696afe.jpg",
+    "static/media/typescript.png": "/my-portfolio-app/static/media/typescript.9c26f8b2a0484e2cb4f2.png",
+    "static/media/javascript.png": "/my-portfolio-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/my-portfolio-app/index.html",
+    "main.abb90f04.css.map": "/my-portfolio-app/static/css/main.abb90f04.css.map",
+    "main.503f48af.js.map": "/my-portfolio-app/static/js/main.503f48af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abb90f04.css",
+    "static/js/main.503f48af.js"
+  ]
+}

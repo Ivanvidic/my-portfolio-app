@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio-app/static/css/main.abb90f04.css",
-    "main.js": "/my-portfolio-app/static/js/main.c16b4e25.js",
+    "main.css": "/my-portfolio-app/static/css/main.6ce45083.css",
+    "main.js": "/my-portfolio-app/static/js/main.23071250.js",
     "static/media/react.png": "/my-portfolio-app/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/html.png": "/my-portfolio-app/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/css.png": "/my-portfolio-app/static/media/css.69a82c2d9e45c933a9cb.png",
@@ -10,11 +10,11 @@
     "static/media/typescript.png": "/my-portfolio-app/static/media/typescript.9c26f8b2a0484e2cb4f2.png",
     "static/media/javascript.png": "/my-portfolio-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/my-portfolio-app/index.html",
-    "main.abb90f04.css.map": "/my-portfolio-app/static/css/main.abb90f04.css.map",
-    "main.c16b4e25.js.map": "/my-portfolio-app/static/js/main.c16b4e25.js.map"
+    "main.6ce45083.css.map": "/my-portfolio-app/static/css/main.6ce45083.css.map",
+    "main.23071250.js.map": "/my-portfolio-app/static/js/main.23071250.js.map"
   },
   "entrypoints": [
-    "static/css/main.abb90f04.css",
-    "static/js/main.c16b4e25.js"
+    "static/css/main.6ce45083.css",
+    "static/js/main.23071250.js"
   ]
 }

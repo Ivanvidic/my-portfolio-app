@@ -15,7 +15,7 @@ const About = () => {
             <p>Hi. I'm Ivan, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-            <p>
+            <p className="text-xl">
               I'm an enthusiastic and detail-oriented Front-End Developer
               seeking an entry-level position with Company to use my skills in
               coding, troubleshooting complex problems, and assisting in the

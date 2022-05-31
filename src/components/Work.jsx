@@ -20,20 +20,22 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                My phone project
+                Movie App Project
               </span>
-              <div className="pt-8 text-center">
+              <div className="pt-8 text-center ">
                 <a
-                  href="https://ivanvidic.github.io/Project2--HTML-CSS-/"
+                  href="https://ivanvidic.github.io/movie-app/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
                 <a
-                  href="https://github.com/Ivanvidic/Project2--HTML-CSS-"
+                  href="https://github.com/Ivanvidic/movie-app"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code

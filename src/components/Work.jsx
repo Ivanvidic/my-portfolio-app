@@ -20,11 +20,11 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Movie App Project
+                Map App
               </span>
               <div className="pt-8 text-center ">
                 <a
-                  href="https://ivanvidic.github.io/movie-app/"
+                  href="https://633473433037e900095f52ab--timely-bublanina-7b8746.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -33,7 +33,7 @@ const Work = () => {
                   </button>
                 </a>
                 <a
-                  href="https://github.com/Ivanvidic/movie-app"
+                  href="https://github.com/Ivanvidic/mapapp"
                   target="_blank"
                   rel="noreferrer"
                 >

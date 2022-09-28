@@ -7,7 +7,7 @@ import Work from './components/Work';
 
 function App() {
   return (
-    <div>
+    <div className="background">
       <Navbar/>
       <Home/>
       <About/>

@@ -4,7 +4,6 @@ import JavaScript from "../assets/javascript.png";
 import ReactImg from "../assets/react.png";
 import Git from "../assets/git.jpg";
 import TypeScript from "../assets/typescript.png";
-import { React } from "react";
 
 const Skills = () => {
   return (

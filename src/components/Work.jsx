@@ -1,3 +1,4 @@
+import React from "react";
 import WorkImg from "../assets/workImg.jpeg";
 
 const Work = () => {
